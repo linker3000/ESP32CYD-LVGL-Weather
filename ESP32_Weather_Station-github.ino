@@ -15,7 +15,7 @@
  * - Added date format in DD-MM-YYYY (configurable in code).
  * - Local timekeeping. Updated from NTP every hour.
  * - Wifi first connect max 10 retries.
- * - WIll try to reconnect if wifi drops.
+ * - Will try to reconnect if wifi drops.
  *
  *  Rui Santos & Sara Santos - Random Nerd Tutorials -
  https://RandomNerdTutorials.com/esp32-cyd-lvgl-weather-station/   |
@@ -66,7 +66,7 @@
 // ******************************************
 
 // Network credentials and other settings
-const char*  ssid      = "** YOUR SSID **;
+const char*  ssid      = "** YOUR SSID **";
 const char*  password  = "** YOUR WIFI PASSWORD **";
 const String latitude  = "0.00000";
 const String longitude = "-0.0000";
