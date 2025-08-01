@@ -17,7 +17,7 @@ This code is based on their tutorial "ESP32 CYD with LVGL: Weather Station (Desc
 * Local timekeeping. Updated from NTP every hour.
 * Wifi info shown on screen.
 * Wifi first connect max 10 retries.
-* WIll try to reconnect if wifi drops.
+* Will try to reconnect if wifi drops.
 
 The code has also been tidied and optimised, with plenty of comments to explain the changes.
 
