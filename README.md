@@ -28,7 +28,7 @@ To use this code, follow the instructions in its comments or on the tutorials pa
 If you find that your display colours are not as per the above image - especially if the background has a red tint - then your CYD was made by a manufacturer 
 who used a slightly different display configuration. Unfortunately, this is a common problem. 
 
-To fix this, locate the *User_Setup.h* file in the TFT_eSPI library folder and find the section as below. Follow the instructions, then save your change and recompile the code.
+To fix this, locate the *User_Setup.h* file in the *TFT_eSPI* library folder and find the section as below. Follow the instructions, then save your change and recompile the code.
 
     // If colours are inverted (white shows as black) then uncomment one of the next
     // 2 lines try both options, one of the options should correct the inversion.
