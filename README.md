@@ -35,3 +35,12 @@ To fix this, locate the *User_Setup.h* file in the *TFT_eSPI* library folder and
 
     // #define TFT_INVERSION_ON
     // #define TFT_INVERSION_OFF
+
+You may also need to modify this section too:
+
+    // For ST7735, ST7789 and ILI9341 ONLY, define the colour order IF the blue and red are swapped on your display  
+    // Try ONE option at a time to find the correct colour order for your display
+
+    // #define TFT_RGB_ORDER TFT_RGB  // Colour order Red-Green-Blue
+    //  #define TFT_RGB_ORDER TFT_BGR  // Colour order Blue-Green-Red
+
