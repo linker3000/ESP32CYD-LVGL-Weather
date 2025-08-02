@@ -42,5 +42,5 @@ You may also need to modify this section too:
     // Try ONE option at a time to find the correct colour order for your display
 
     // #define TFT_RGB_ORDER TFT_RGB  // Colour order Red-Green-Blue
-    //  #define TFT_RGB_ORDER TFT_BGR  // Colour order Blue-Green-Red
+    // #define TFT_RGB_ORDER TFT_BGR  // Colour order Blue-Green-Red
 
