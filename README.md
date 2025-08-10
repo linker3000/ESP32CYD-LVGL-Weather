@@ -55,4 +55,4 @@ The 3.5" display variants aren't wired up the same way as the 2.8" ones. The Use
 
 You don't need this file if you have a 2.8" CYD - although you may need to tweak the default file as above according to your display variant.
 
-If you can help improve or correct anything in this file let me know.
+The download bundle from this manufacturer has resources and examples for 3.5" CYDs: https://www.tztstore.com/goods/show-8217.html
