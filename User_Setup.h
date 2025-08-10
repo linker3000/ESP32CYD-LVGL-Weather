@@ -14,11 +14,15 @@
 // Driver selection
 #define ILI9488_DRIVER
 
+// If that doesn't work with your display, try:
+// #define ST7796_DRIVER
+
 // Display size
 #define TFT_WIDTH  320
 #define TFT_HEIGHT 480
 
 // ESP32 pin connections for TFT
+#define ESP32_DMA
 #define TFT_MISO 12
 #define TFT_MOSI 13
 #define TFT_SCLK 14
