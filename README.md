@@ -1,4 +1,4 @@
-# ESP32CYD-LVGL-Weather
+``    # ESP32CYD-LVGL-Weather
 Weather Station and clock for the ESP32 Cheap Yellow Display (CYD) ESP32-2432S028R
 
 ![Image](esp32-weather.jpg)
@@ -46,6 +46,10 @@ You may also need to modify this section too:
 
 
 **Bought a 3.5" CYD!!??**
+
+![Image](CYD3-5-sm.jpg)
+
+*3.5" CYD with updated code that includes a news ticker and item scaling.*
 
 The 3.5" display variants aren't wired up the same way as the 2.8" ones. The User_Setup.h in this repo is a barebones one that seems to work with the 3.5" resistive CYDs available on AliExpress, but YMMV.
 
