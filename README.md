@@ -47,7 +47,7 @@ You may also need to modify this section too:
 
 **Bought a 3.5" CYD!!??**
 
-![Image](CYD3-5-sm.jpg)
+![Image](CYD3-5b-sm.jpg)
 
 *3.5" CYD with updated code that includes a news ticker and item scaling.*
 
