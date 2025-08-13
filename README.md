@@ -57,5 +57,7 @@ You don't need this file if you have a 2.8" CYD - although you may need to tweak
 
 The download bundle from this manufacturer has resources and examples for 3.5" CYDs: https://www.tztstore.com/goods/show-8217.html
 
+**Powering:** The USB-C port on some 3.5" CYDs does not implement any power delivery protocols and so they do not turn on if connected to a USB-C port or a USB-C power adapter. The simplest fix is to use a USB-A to USB-C lead for power or power+data. 
+
 *11 Aug 2025: The new code that fully supports 3.5" displays and the (optional) news ticker will be available shortly.*
 
