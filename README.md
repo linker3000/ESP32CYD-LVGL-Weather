@@ -1,6 +1,8 @@
 # ESP32CYD-LVGL-Weather
 Weather Station and clock for the ESP32 Cheap Yellow Display (CYD) ESP32-2432S028R
 
+NB: The User_Setup.h file here is for 3.5" displays only. Do not use it with the 2.8" versions. Read on...
+
 ![Image](esp32-weather.jpg)
 
 I bought one of the above units to have a bit of fun and came across the excellent guides from Random Nerd Tutorials.
